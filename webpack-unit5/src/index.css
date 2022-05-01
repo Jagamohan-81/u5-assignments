@@ -1,0 +1,14 @@
+body{
+    max-width: 1200px;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#heading, #notes{
+    margin: 15px;
+}
+#logo{
+    padding-top: 20px;
+}
+.redtext{
+    color: black;
+}
