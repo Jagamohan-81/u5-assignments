@@ -1,0 +1,12 @@
+.App{
+  margin: 30px 20px;
+}
+.App >h2{
+  font-size: large;
+}
+.square{
+  list-style: square;
+}
+.circle{
+  list-style: circle;
+}
