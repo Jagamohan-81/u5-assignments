@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.even{
+  color: green;
+}
+.odd{
+  color: red;
+}
+button{
+  margin: 10px;
+  padding: 5px 12px;
+}
