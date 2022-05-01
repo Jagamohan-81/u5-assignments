@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App{
+  padding: 20px;
+  background-color: rgba(0, 255, 251, 0.201);
+}
+.nav {
+  background-color: #02150B;
+  padding: 3px;
+  display: flex;
+}
+.logo{
+  width: 150px;
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
+.box1{
+  width: 25%;
+  text-align: center;
+}
+.box2{
+  width: 50%;
+}
+.box3{
+  width: 25%;
+  text-align: center;
+}
+.box2 > ul{
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+  list-style-type: none;
+}
+.box3 > button{
+  margin-top: 16px;
+  background-color: deepskyblue;
+  border: none;
+  padding: 5px 15px;
+  color:#fff;
+  border-radius: 10px;
+}
